@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\eletr\Desktop\Estudos\DIO\Bootcamps\GFT Start Woman Java\Desafio dio padroes de projeto\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+925315127.index
+2707940638.index

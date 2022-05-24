@@ -1,0 +1,5 @@
+package desafio.dio;
+
+public class SingletonLazy {
+
+}
